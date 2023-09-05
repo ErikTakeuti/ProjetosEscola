@@ -5,3 +5,5 @@
 ### [-Projeto 2:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/projeto2)PROJETO 2
 
 ### [-Projeto 3:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/projeto_final)PROJETO FINAL
+
+### [-Projeto 4:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/JS)EXERCÍCIOS JAVA SCRIPT
