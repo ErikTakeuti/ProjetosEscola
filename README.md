@@ -18,3 +18,5 @@
 
 ### [-Projeto 9:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/site2%20%20-%20PHP) SITE 2 PHP
 
+### [-Projeto 10:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/site_erik%20PHP) SITE ERIK 1 PHP
+
