@@ -12,3 +12,5 @@
 
 ### [-Projeto 6:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/JS)EXERCÍCIOS JAVA SCRIPT
 
+### [-Projeto 7:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/Atividade%20-%20PHP) ATIVIDADE PHP
+
