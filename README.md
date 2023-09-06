@@ -14,3 +14,5 @@
 
 ### [-Projeto 7:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/Atividade%20-%20PHP) ATIVIDADE PHP
 
+### [-Projeto 8:](https://github.com/ErikTakeuti/ProjetosEscola/tree/main/site1%20-%20PHP) SITE 1 PHP
+
